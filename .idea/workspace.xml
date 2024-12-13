@@ -38,6 +38,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="Git.Stage.Ui.Settings">
+    <option name="ignoredFilesShown" value="true" />
+  </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
@@ -84,6 +87,13 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734102245522</updated>
-      <workItem from="1734102246388" duration="5612000" />
+      <workItem from="1734102246388" duration="7309000" />
     </task>
     <task id="LOCAL-00001" summary="ух бля">
       <option name="closed" value="true" />
@@ -133,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734107731978</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ух бля1">
+      <option name="closed" value="true" />
+      <created>1734108167305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734108167305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ух бля" />
-    <option name="LAST_COMMIT_MESSAGE" value="ух бля" />
+    <MESSAGE value="ух бля1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ух бля1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$2.coverage" NAME="2 Coverage Results" MODIFIED="1734102957143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
@@ -153,6 +172,6 @@
     <SUITE FILE_PATH="coverage/PythonProject$1.coverage" NAME="1 Coverage Results" MODIFIED="1734102468246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
     <SUITE FILE_PATH="coverage/PythonProject$3.coverage" NAME="3 Coverage Results" MODIFIED="1734103229967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
     <SUITE FILE_PATH="coverage/PythonProject$9.coverage" NAME="9 Coverage Results" MODIFIED="1734107232280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
-    <SUITE FILE_PATH="coverage/PythonProject$6.coverage" NAME="6 Coverage Results" MODIFIED="1734105667624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
+    <SUITE FILE_PATH="coverage/PythonProject$6.coverage" NAME="6 Coverage Results" MODIFIED="1734109684709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
   </component>
 </project>
